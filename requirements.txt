@@ -1,7 +1,7 @@
 ipdb==0.7
 ipython==0.13.2
 matplotlib==1.2.1
-numpy==1.7.1
+numpy==1.22.0
 pyzmq==13.1.0
 scikit-learn==0.13.1
 scipy==0.12.0
